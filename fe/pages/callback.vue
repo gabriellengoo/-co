@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>Loading...</div>
   </template>
   
@@ -24,4 +24,4 @@
     }
   })
   </script>
-  
+   -->
