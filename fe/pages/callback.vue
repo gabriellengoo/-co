@@ -1,3 +1,7 @@
+<template>
+  <div>Loading...</div>
+</template>
+
 <!-- <template>
     <div>Loading...</div>
   </template>
